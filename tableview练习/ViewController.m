@@ -43,6 +43,7 @@
     [self setUpView];
     //设置自动布局
     [self setConstraints];
+    //我是标记
 }
 #pragma mark -- 设置view
 -(void)setUpView{
