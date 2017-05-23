@@ -30,6 +30,7 @@
     NSLog(@"URL%@",url);
     [[UIApplication sharedApplication] openURL:url options:nil completionHandler:nil];
 }
+
 -(void)clickShare{
     yyShareView *shareView = [yyShareView shareView];
     shareView.frame = CGRectMake(0, Width, Width, Width);
@@ -55,4 +56,7 @@
     // Configure the view for the selected state
 }
 
+-(void)test1{
+    NSLog(@"我是测试程序");
+}
 @end
