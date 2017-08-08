@@ -24,6 +24,7 @@
 		FE2506361EC3FE7500922510 /* yyHeroFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = FE2506351EC3FE7500922510 /* yyHeroFrame.m */; };
 		FE68590C1EC9360300C56527 /* yyHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = FE68590B1EC9360200C56527 /* yyHeaderView.m */; };
 		FE8E43FE1F39AE9A006EBAD2 /* yytestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE8E43FD1F39AE9A006EBAD2 /* yytestViewController.m */; };
+		FE8E44011F39AF12006EBAD2 /* yytest1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE8E44001F39AF12006EBAD2 /* yytest1ViewController.m */; };
 		FEB021B31F39AE560068D06F /* yydevViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEB021B21F39AE560068D06F /* yydevViewController.m */; };
 		FEF298C91ECADC770094DEE5 /* yyHeaderViewFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = FEF298C81ECADC770094DEE5 /* yyHeaderViewFrame.m */; };
 		FEF298CE1ECBD9210094DEE5 /* yyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FEF298CC1ECBD9210094DEE5 /* yyTableViewCell.m */; };
@@ -85,6 +86,8 @@
 		FE68590B1EC9360200C56527 /* yyHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yyHeaderView.m; sourceTree = "<group>"; };
 		FE8E43FC1F39AE9A006EBAD2 /* yytestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yytestViewController.h; sourceTree = "<group>"; };
 		FE8E43FD1F39AE9A006EBAD2 /* yytestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yytestViewController.m; sourceTree = "<group>"; };
+		FE8E43FF1F39AF12006EBAD2 /* yytest1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yytest1ViewController.h; sourceTree = "<group>"; };
+		FE8E44001F39AF12006EBAD2 /* yytest1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yytest1ViewController.m; sourceTree = "<group>"; };
 		FEB021B11F39AE560068D06F /* yydevViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yydevViewController.h; sourceTree = "<group>"; };
 		FEB021B21F39AE560068D06F /* yydevViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yydevViewController.m; sourceTree = "<group>"; };
 		FEF298C71ECADC770094DEE5 /* yyHeaderViewFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yyHeaderViewFrame.h; sourceTree = "<group>"; };
@@ -278,6 +281,8 @@
 				FEB021B21F39AE560068D06F /* yydevViewController.m */,
 				FE8E43FC1F39AE9A006EBAD2 /* yytestViewController.h */,
 				FE8E43FD1F39AE9A006EBAD2 /* yytestViewController.m */,
+				FE8E43FF1F39AF12006EBAD2 /* yytest1ViewController.h */,
+				FE8E44001F39AF12006EBAD2 /* yytest1ViewController.m */,
 			);
 			name = segment;
 			sourceTree = "<group>";
@@ -487,6 +492,7 @@
 				FEB021B31F39AE560068D06F /* yydevViewController.m in Sources */,
 				FE1E4EDC1EC0498200F43DFF /* main.m in Sources */,
 				FEF298CE1ECBD9210094DEE5 /* yyTableViewCell.m in Sources */,
+				FE8E44011F39AF12006EBAD2 /* yytest1ViewController.m in Sources */,
 				FE1E4F0F1EC04AAC00F43DFF /* yyHero.m in Sources */,
 				FE2506331EC3FE5700922510 /* yyHeroCell.m in Sources */,
 			);
