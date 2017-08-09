@@ -23,11 +23,8 @@
 		FE2506331EC3FE5700922510 /* yyHeroCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FE2506321EC3FE5700922510 /* yyHeroCell.m */; };
 		FE2506361EC3FE7500922510 /* yyHeroFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = FE2506351EC3FE7500922510 /* yyHeroFrame.m */; };
 		FE68590C1EC9360300C56527 /* yyHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = FE68590B1EC9360200C56527 /* yyHeaderView.m */; };
-		FE8E43FE1F39AE9A006EBAD2 /* yytestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE8E43FD1F39AE9A006EBAD2 /* yytestViewController.m */; };
-		FE8E44011F39AF12006EBAD2 /* yytest1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE8E44001F39AF12006EBAD2 /* yytest1ViewController.m */; };
-		FE8E44051F39AF92006EBAD2 /* yyheheViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE8E44041F39AF92006EBAD2 /* yyheheViewController.m */; };
-		FE8E44091F39B4C0006EBAD2 /* yyhahaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE8E44081F39B4BF006EBAD2 /* yyhahaViewController.m */; };
 		FEB021B31F39AE560068D06F /* yydevViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FEB021B21F39AE560068D06F /* yydevViewController.m */; };
+		FED143231F3A916E004F6DCF /* yytestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FED143221F3A916E004F6DCF /* yytestViewController.m */; };
 		FEF298C91ECADC770094DEE5 /* yyHeaderViewFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = FEF298C81ECADC770094DEE5 /* yyHeaderViewFrame.m */; };
 		FEF298CE1ECBD9210094DEE5 /* yyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FEF298CC1ECBD9210094DEE5 /* yyTableViewCell.m */; };
 		FEF298CF1ECBD9210094DEE5 /* yyTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FEF298CD1ECBD9210094DEE5 /* yyTableViewCell.xib */; };
@@ -86,16 +83,10 @@
 		FE2506351EC3FE7500922510 /* yyHeroFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yyHeroFrame.m; sourceTree = "<group>"; };
 		FE68590A1EC9360200C56527 /* yyHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yyHeaderView.h; sourceTree = "<group>"; };
 		FE68590B1EC9360200C56527 /* yyHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yyHeaderView.m; sourceTree = "<group>"; };
-		FE8E43FC1F39AE9A006EBAD2 /* yytestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yytestViewController.h; sourceTree = "<group>"; };
-		FE8E43FD1F39AE9A006EBAD2 /* yytestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yytestViewController.m; sourceTree = "<group>"; };
-		FE8E43FF1F39AF12006EBAD2 /* yytest1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yytest1ViewController.h; sourceTree = "<group>"; };
-		FE8E44001F39AF12006EBAD2 /* yytest1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yytest1ViewController.m; sourceTree = "<group>"; };
-		FE8E44031F39AF92006EBAD2 /* yyheheViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yyheheViewController.h; sourceTree = "<group>"; };
-		FE8E44041F39AF92006EBAD2 /* yyheheViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yyheheViewController.m; sourceTree = "<group>"; };
-		FE8E44071F39B4BF006EBAD2 /* yyhahaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yyhahaViewController.h; sourceTree = "<group>"; };
-		FE8E44081F39B4BF006EBAD2 /* yyhahaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yyhahaViewController.m; sourceTree = "<group>"; };
 		FEB021B11F39AE560068D06F /* yydevViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yydevViewController.h; sourceTree = "<group>"; };
 		FEB021B21F39AE560068D06F /* yydevViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yydevViewController.m; sourceTree = "<group>"; };
+		FED143211F3A916E004F6DCF /* yytestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yytestViewController.h; sourceTree = "<group>"; };
+		FED143221F3A916E004F6DCF /* yytestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yytestViewController.m; sourceTree = "<group>"; };
 		FEF298C71ECADC770094DEE5 /* yyHeaderViewFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yyHeaderViewFrame.h; sourceTree = "<group>"; };
 		FEF298C81ECADC770094DEE5 /* yyHeaderViewFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yyHeaderViewFrame.m; sourceTree = "<group>"; };
 		FEF298CB1ECBD9210094DEE5 /* yyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yyTableViewCell.h; sourceTree = "<group>"; };
@@ -177,8 +168,6 @@
 		FE1E4ED91EC0498200F43DFF /* tableview练习 */ = {
 			isa = PBXGroup;
 			children = (
-				FE8E44061F39B4AA006EBAD2 /* dev1 */,
-				FE8E44021F39AF86006EBAD2 /* dev */,
 				FEF298D61ECC200D0094DEE5 /* segment */,
 				FEF298D31ECBDDA80094DEE5 /* shareView */,
 				FEF298CA1ECBD7F60094DEE5 /* operCell */,
@@ -196,6 +185,8 @@
 				FE1E4EE81EC0498200F43DFF /* LaunchScreen.storyboard */,
 				FE1E4EEB1EC0498200F43DFF /* Info.plist */,
 				FE1E4EDA1EC0498200F43DFF /* Supporting Files */,
+				FED143211F3A916E004F6DCF /* yytestViewController.h */,
+				FED143221F3A916E004F6DCF /* yytestViewController.m */,
 			);
 			path = "tableview练习";
 			sourceTree = "<group>";
@@ -259,24 +250,6 @@
 			name = "自定义headerView";
 			sourceTree = "<group>";
 		};
-		FE8E44021F39AF86006EBAD2 /* dev */ = {
-			isa = PBXGroup;
-			children = (
-				FE8E44031F39AF92006EBAD2 /* yyheheViewController.h */,
-				FE8E44041F39AF92006EBAD2 /* yyheheViewController.m */,
-			);
-			name = dev;
-			sourceTree = "<group>";
-		};
-		FE8E44061F39B4AA006EBAD2 /* dev1 */ = {
-			isa = PBXGroup;
-			children = (
-				FE8E44071F39B4BF006EBAD2 /* yyhahaViewController.h */,
-				FE8E44081F39B4BF006EBAD2 /* yyhahaViewController.m */,
-			);
-			name = dev1;
-			sourceTree = "<group>";
-		};
 		FEF298CA1ECBD7F60094DEE5 /* operCell */ = {
 			isa = PBXGroup;
 			children = (
@@ -305,10 +278,6 @@
 				FEF298DF1ECC242D0094DEE5 /* yysegment.xib */,
 				FEB021B11F39AE560068D06F /* yydevViewController.h */,
 				FEB021B21F39AE560068D06F /* yydevViewController.m */,
-				FE8E43FC1F39AE9A006EBAD2 /* yytestViewController.h */,
-				FE8E43FD1F39AE9A006EBAD2 /* yytestViewController.m */,
-				FE8E43FF1F39AF12006EBAD2 /* yytest1ViewController.h */,
-				FE8E44001F39AF12006EBAD2 /* yytest1ViewController.m */,
 			);
 			name = segment;
 			sourceTree = "<group>";
@@ -509,18 +478,15 @@
 				FE68590C1EC9360300C56527 /* yyHeaderView.m in Sources */,
 				FE1E4EE21EC0498200F43DFF /* ViewController.m in Sources */,
 				FEF298D21ECBDDA20094DEE5 /* yyShareView.m in Sources */,
-				FE8E44091F39B4C0006EBAD2 /* yyhahaViewController.m in Sources */,
 				FE1E4F141EC0611C00F43DFF /* yyHeroView.m in Sources */,
 				FE1E4EDF1EC0498200F43DFF /* AppDelegate.m in Sources */,
 				FE2506361EC3FE7500922510 /* yyHeroFrame.m in Sources */,
-				FE8E43FE1F39AE9A006EBAD2 /* yytestViewController.m in Sources */,
+				FED143231F3A916E004F6DCF /* yytestViewController.m in Sources */,
 				FEF298C91ECADC770094DEE5 /* yyHeaderViewFrame.m in Sources */,
 				FEF298DE1ECC241C0094DEE5 /* yysegment.m in Sources */,
 				FEB021B31F39AE560068D06F /* yydevViewController.m in Sources */,
 				FE1E4EDC1EC0498200F43DFF /* main.m in Sources */,
 				FEF298CE1ECBD9210094DEE5 /* yyTableViewCell.m in Sources */,
-				FE8E44051F39AF92006EBAD2 /* yyheheViewController.m in Sources */,
-				FE8E44011F39AF12006EBAD2 /* yytest1ViewController.m in Sources */,
 				FE1E4F0F1EC04AAC00F43DFF /* yyHero.m in Sources */,
 				FE2506331EC3FE5700922510 /* yyHeroCell.m in Sources */,
 			);
